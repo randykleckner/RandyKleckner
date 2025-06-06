@@ -8,7 +8,7 @@ I'm a customer support leader transitioning into tech-focused roles like Custome
 
 - [Cyclistic Bike-Share Analysis](https://github.com/YourUsername/cyclistic-bike-share)
 - [Prompt Engineering Experiments](https://github.com/YourUsername/ai-prompt-portfolio)
-- [Learning Log](https://github.com/YourUsername/learning-log)
+- [Learning Log](https://github.com/randykleckner/learning-log)
 
 ---
 
